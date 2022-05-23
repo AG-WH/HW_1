@@ -1,0 +1,46 @@
+h1 {
+  font-size: 18px;
+  color: #fff;
+  text-align: center;
+}
+p {
+  font-size: 18px;
+}
+.bg_red {
+  background-color: #a52a2a;
+}
+.BigP {
+  width: 100%;
+}
+.cur {
+  font-style: italic;
+}
+.bold {
+  font-weight: bold;
+}
+.curblu {
+  color: blue;
+}
+.conteiner {
+  text-align: center;
+}
+
+.conteiner img {
+  margin: 10px 1px;
+  border: dotted black;
+}
+
+.conteiner img:nth-child(n) {
+  order: 1;
+}
+.blu {
+  color: blue;
+}
+.textwhite {
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
+footer {
+  background-color: black;
+}
